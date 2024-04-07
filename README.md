@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 ### :books: Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipPaskalev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- Markdown -->
-
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipPaskalev&show_icons=true&theme=transparent)

@@ -18,6 +18,10 @@ Welcome to my GitHub profile! I'm a junior programmer always eager to help and c
 
 ![Phil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=filippaskalev&show_icons=true&theme=radical)
 
+## 📈 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=filippaskalev&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
 ## 🏷️ Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=filippaskalev&layout=compact&theme=radical)

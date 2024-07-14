@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a junior programmer always eager to help and c
 ## 📊 Activity Graph
 
 <a>
-<img height=250 width=800 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=FilipPaskalev" />
+<img height=250 width=800 src="https://github-readme-activity-graph.vercel.app/graph?username=FilipPaskalev" />
 </a>
 
 <!-- ## 🌟 Featured Projects

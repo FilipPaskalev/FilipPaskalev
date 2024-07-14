@@ -20,6 +20,8 @@ Welcome to my GitHub profile! I'm Phil, a passionate developer from United Kingd
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/filippaskalev?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FilipPaskalev&show_icons=true&theme=algolia" />

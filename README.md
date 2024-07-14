@@ -29,5 +29,8 @@ Welcome to my GitHub profile! I'm Phil, a passionate developer from United Kingd
 
 ### 📊 Activity Graph
 
-[![ GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FilipPaskalev)](https://github.com/FilipPaskalev/github-readme-activity-graph)
+<a>
+<img height=200 align="center" src="[![ GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FilipPaskalev)](https://github.com/FilipPaskalev/github-readme-activity-graph)" />
+</a>
+
 

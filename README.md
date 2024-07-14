@@ -32,7 +32,10 @@ Welcome to my GitHub profile! I'm Phil, a passionate developer from United Kingd
 </div>
 
 
-<a href="https://github.com/filippaskalev/github-readme-stats">
+<a href="https://github.com/filippaskalev/github-readme-stats"></a>
+
+
+<a href="https://awesome-github-stats.azurewebsites.net/user-stats/filippaskalev?cardType=level&theme=dark&preferLogin=false)">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=filippaskalev" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">

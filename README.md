@@ -1,12 +1,6 @@
-### Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi people. I'm Phil... <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Welcome to my GitHub profile! I'm Phil, a passionate developer from United Kingdom. 
-
-<!-- - 🌱 I’m currently learning: [Technology/Programming Language 1], [Technology/Programming Language 2], [Technology/Programming Language 3]
-- 💬 Ask me about: [Your Areas of Expertise]
-- 📫 How to reach me: [Your Email Address], [Your Website] -->
-
-### 🚀 My Skills and Tools
+Welcome to my GitHub profile! I'm a junior programmer always eager to help and collaborate on exciting projects. I'm passionate about learning and open to new ideas, so feel free to reach out!
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)]()
@@ -20,18 +14,41 @@ Welcome to my GitHub profile! I'm Phil, a passionate developer from United Kingd
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width=800 align="center" src="https://github-readme-stats.vercel.app/api?username=filippaskalev" />
-</a>
+## 📊 GitHub Stats
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 width=800 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=filippaskalev&layout=compact&langs_count=8&card_width=320" />
-</a>
+![Phil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=filippaskalev&show_icons=true&theme=radical)
 
-### 📊 Activity Graph
+## 🏷️ Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=filippaskalev&layout=compact&theme=radical)
+
+## 📊 Activity Graph
 
 <a>
 <img height=250 width=800 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=FilipPaskalev" />
 </a>
 
+<!-- ## 🌟 Featured Projects
 
+- [🌐 Project 1](https://github.com/filippaskalev/project-1): Brief description of the project.
+- [📱 Project 2](https://github.com/filippaskalev/project-2): Brief description of the project. -->
+
+<!-- ## 📚 Blog Posts
+
+- [📝 Title of Blog Post 1](https://your-blog-link-1): Brief description or excerpt from the post.
+- [📝 Title of Blog Post 2](https://your-blog-link-2): Brief description or excerpt from the post. -->
+
+## 📫 Get in Touch
+
+- [💼 LinkedIn](https://www.linkedin.com/in/paskalevfilip/)
+- [✉️ Email](mailto:paskalevfilip@gmail.com)
+
+## 🎯 Goals for 2024
+
+- 🚀 Contribute to open-source projects.
+- 🌱 Learn a new programming language.
+- 💻 Build a personal project from scratch.
+
+## 💡 Ideas and Collaborations
+
+I'm always on the lookout for innovative projects and collaborations. If you have an idea or want to work together, let's connect! 🤝

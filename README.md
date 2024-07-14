@@ -21,16 +21,16 @@ Welcome to my GitHub profile! I'm Phil, a passionate developer from United Kingd
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=filippaskalev" />
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=filippaskalev" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=filippaskalev&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=filippaskalev&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ### 📊 Activity Graph
 
 <a>
-<img height=300 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=FilipPaskalev" />
+<img height=300 width=400 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=FilipPaskalev" />
 </a>
 [![ GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FilipPaskalev)](https://github.com/FilipPaskalev/github-readme-activity-graph)
 

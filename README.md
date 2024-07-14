@@ -23,6 +23,7 @@ Welcome to my GitHub profile! I'm Phil, a passionate developer from United Kingd
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=filippaskalev" />
 </a>
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=filippaskalev&layout=compact&langs_count=8&card_width=320" />
 </a>
@@ -32,5 +33,5 @@ Welcome to my GitHub profile! I'm Phil, a passionate developer from United Kingd
 <a>
 <img height=300 width=400 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=FilipPaskalev" />
 </a>
-[![ GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FilipPaskalev)](https://github.com/FilipPaskalev/github-readme-activity-graph)
+
 

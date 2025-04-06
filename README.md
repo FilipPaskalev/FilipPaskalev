@@ -2,6 +2,7 @@
 
 Welcome to my GitHub profile! I'm a junior programmer always eager to help and collaborate on exciting projects. I'm passionate about learning and open to new ideas, so feel free to reach out!
 
+<!-- ##
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)]()
 [![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)]()
@@ -13,7 +14,7 @@ Welcome to my GitHub profile! I'm a junior programmer always eager to help and c
 [![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)]()
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
-
+-->
 
 ## 📊 GitHub Stats
 
